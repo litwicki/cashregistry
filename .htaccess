@@ -1,0 +1,9 @@
+
+AuthType Basic
+
+AuthName "Cash Gift Registry Dev"
+
+AuthUserFile "/home/thezdin/.htpasswds/clients/cashregistry/passwd"
+
+
+require valid-user

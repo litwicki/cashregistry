@@ -1,0 +1,5 @@
+[14-Aug-2006 23:08:17] PHP Parse error:  parse error, unexpected T_BOOLEAN_AND, expecting ',' or ')' in /home/sacrifi/public_html/cr/database-echo.php on line 12
+[14-Aug-2006 23:30:41] PHP Parse error:  parse error, unexpected T_VARIABLE, expecting ',' or ';' in /home/sacrifi/public_html/cr/giftsreviewinfo.php on line 130
+[17-Aug-2006 09:28:23] PHP Fatal error:  Call to undefined method DBMGR::Select() in /home/sacrifi/public_html/cr/includes/search.php on line 19
+[17-Aug-2006 09:30:00] PHP Warning:  Missing argument 3 for DBQueryMGR::Select() in /home/sacrifi/public_html/cr/includes/dbquerymgr.php on line 10
+[17-Aug-2006 09:30:00] PHP Warning:  Missing argument 4 for DBQueryMGR::Select() in /home/sacrifi/public_html/cr/includes/dbquerymgr.php on line 10
